@@ -2,7 +2,7 @@ from inputs import get_gamepad
 import requests
 import time
 
-ESP_IP = "http://192.168.1.100"  # CHANGE THIS
+ESP_IP = "" # CHANGE THIS
 
 # -------- SETTINGS --------
 DEADZONE = 0.15
