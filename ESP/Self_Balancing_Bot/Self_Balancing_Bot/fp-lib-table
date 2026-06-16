@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ESP32-DEVKITC-32D") (type "KiCad") (uri "D:/Sam/Projects/Kicad/Symbols/ESP32-DEVKITC-32D.pretty") (options "") (descr ""))
+	(lib (name "MPU_Sensors") (type "KiCad") (uri "D:/Sam/Projects/Kicad/Footprints/MPU_Sensors.pretty") (options "") (descr ""))
+	(lib (name "ROB-14450") (type "KiCad") (uri "D:/Sam/Projects/Kicad/Symbols/ROB-14450.pretty") (options "") (descr ""))
+)
